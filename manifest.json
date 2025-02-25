@@ -252,13 +252,13 @@
     "Servers":{
        "Official":[
           {
-             "Address": "45.136.205.154",
-             "Port": 35000,
+             "Address": "s1.hks.network",
+             "Port": 10023,
              "Tags": ""
           },
       	  {
-             "Address": "45.136.205.154",
-             "Port": 35001,
+             "Address": "46.174.52.57",
+             "Port": 10023,
              "Tags": ""
           }
        ], 
