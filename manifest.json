@@ -252,13 +252,13 @@
     "Servers":{
        "Official":[
           {
-             "Address": "0.0.0.0",
+             "Address": "localhost",
              "Port": 28015,
              "Tags": ""
           },
       	  {
-             "Address": "46.174.52.57",
-             "Port": 10023,
+             "Address": "localhost",
+             "Port": 28015,
              "Tags": ""
           }
        ], 
