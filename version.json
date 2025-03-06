@@ -5,6 +5,10 @@
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
       "path": "./BepInEx/plugins/CALYPSOMOD.dll"
     },
+        {
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/MoonRust.exe",
+      "path": "./MoonRust.exe"
+    },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
       "path": "./BepInEx/plugins/DiscordRPC.dll"
