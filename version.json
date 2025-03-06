@@ -1,33 +1,50 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
+  "servers": [
+    {
+      "name": "OldRust #1 - Modded",
+      "monitoringId": "7042240",
+      "enabled": true
+    },
+    {
+      "name": "OldRust #2 - Classic",
+      "monitoringId": "YOUR_SECOND_SERVER_ID",
+      "enabled": true
+    },
+    {
+      "name": "OldRust #3 - Aim Train",
+      "monitoringId": "YOUR_THIRD_SERVER_ID",
+      "enabled": true
+    }
+  ],
   "files": [
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
-      "path": "./BepInEx/plugins/CALYPSOMOD.dll",
+      "path": "./BepInEx/plugins/CALYPSOMOD.dll"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
-      "path": "./BepInEx/plugins/DiscordRPC.dll",
+      "path": "./BepInEx/plugins/DiscordRPC.dll"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
-      "path": "./BepInEx/plugins/Newtonsoft.Json.dll",
+      "path": "./BepInEx/plugins/Newtonsoft.Json.dll"
     },
-    { 
+    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
-      "path": "./doorstop_config.ini",
+      "path": "./doorstop_config.ini"
     },
-    { 
+    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/winhttp.dll",
-      "path": "./winhttp.dll",
+      "path": "./winhttp.dll"
     },
-    { 
+    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/BepInEx.cfg",
-      "path": "./BepInEx/config/BepInEx.cfg",
+      "path": "./BepInEx/config/BepInEx.cfg"
     },
-    { 
+    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/config.ini",
-      "path": "./BepInEx/config/config.ini",
+      "path": "./BepInEx/config/config.ini"
     }
   ]
 }
