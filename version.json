@@ -1,16 +1,16 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/plugins/CALYPSOMOD.dll",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
       "path": "./BepInEx/plugins/CALYPSOMOD.dll"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/plugins/DiscordRPC.dll",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
       "path": "./BepInEx/plugins/DiscordRPC.dll"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/plugins/Newtonsoft.Json.dll",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
       "path": "./BepInEx/plugins/Newtonsoft.Json.dll"
     },
     { 
@@ -22,7 +22,7 @@
      "path": "./winhttp.dll"
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/config/BepInEx.cfg",
+     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/BepInEx.cfg",
      "path": "./BepInEx/config/BepInEx.cfg"
     },
     { 
