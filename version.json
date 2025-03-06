@@ -1,8 +1,5 @@
 {
-  "version": "1.0.2",
-  "servers": {
-    "main": "6852328",
-    "combat": "7353171"
+  "version": "1.0.1",
   },
   "files": [
     {
