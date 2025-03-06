@@ -1,0 +1,26 @@
+{
+  "version": "1.0.3",
+  "files": [
+    {
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/ForestBooster.dll",
+      "path": "./BepInEx/plugins/ForestBooster.dll"
+    },
+    { 
+     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
+     "path": "./doorstop_config.ini"
+    },
+    { 
+     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/winhttp.dll",
+     "path": "./winhttp.dll"
+    },
+    { 
+     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx.cfg",
+     "path": "./BepInEx/config/BepInEx.cfg"
+    },
+    { 
+     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/config.ini",
+     "path": "./BepInEx/config/config.ini"
+    }
+    
+  ]
+}
