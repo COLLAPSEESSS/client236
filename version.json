@@ -3,36 +3,43 @@
   "files": [
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
-      "path": "./BepInEx/plugins/CALYPSOMOD.dll"
+      "path": "./BepInEx/plugins/CALYPSOMOD.dll",
+      "isLauncher": false
     },
-        {
+    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/MoonRust.exe",
-      "path": "./MoonRust.exe"
+      "path": "./MoonRust.exe",
+      "isLauncher": true
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
-      "path": "./BepInEx/plugins/DiscordRPC.dll"
+      "path": "./BepInEx/plugins/DiscordRPC.dll",
+      "isLauncher": false
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
-      "path": "./BepInEx/plugins/Newtonsoft.Json.dll"
+      "path": "./BepInEx/plugins/Newtonsoft.Json.dll",
+      "isLauncher": false
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
-     "path": "./doorstop_config.ini"
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
+      "path": "./doorstop_config.ini",
+      "isLauncher": false
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/winhttp.dll",
-     "path": "./winhttp.dll"
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/winhttp.dll",
+      "path": "./winhttp.dll",
+      "isLauncher": false
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/BepInEx.cfg",
-     "path": "./BepInEx/config/BepInEx.cfg"
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/BepInEx.cfg",
+      "path": "./BepInEx/config/BepInEx.cfg",
+      "isLauncher": false
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/config/config.ini",
-     "path": "./BepInEx/config/config.ini"
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/config.ini",
+      "path": "./BepInEx/config/config.ini",
+      "isLauncher": false
     }
-    
   ]
 }
