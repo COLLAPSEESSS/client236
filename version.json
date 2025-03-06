@@ -1,9 +1,17 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.1",
   "files": [
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/ForestBooster.dll",
-      "path": "./BepInEx/plugins/ForestBooster.dll"
+      "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/plugins/CALYPSOMOD.dll",
+      "path": "./BepInEx/plugins/CALYPSOMOD.dll"
+    },
+    {
+      "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/plugins/DiscordRPC.dll",
+      "path": "./BepInEx/plugins/DiscordRPC.dll"
+    },
+    {
+      "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/plugins/Newtonsoft.Json.dll",
+      "path": "./BepInEx/plugins/Newtonsoft.Json.dll"
     },
     { 
      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
@@ -14,11 +22,11 @@
      "path": "./winhttp.dll"
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx.cfg",
+     "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/config/BepInEx.cfg",
      "path": "./BepInEx/config/BepInEx.cfg"
     },
     { 
-     "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/config.ini",
+     "url": "https://github.com/COLLAPSEESSS/client236/tree/main/BepInEx/config/config.ini",
      "path": "./BepInEx/config/config.ini"
     }
     
