@@ -1,5 +1,9 @@
 {
   "version": "1.0.1",
+  "servers": {
+    "main": "6852328",
+    "combat": "7353171"
+  },
   "files": [
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
