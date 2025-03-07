@@ -52,8 +52,8 @@
 {
   "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/unity-libs.rar",
   "path": "./BepInEx/unity-libs/unity-libs.rar"
-}
-    {
+},
+{
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/config.ini",
       "path": "./BepInEx/config/config.ini"
     }
