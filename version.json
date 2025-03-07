@@ -1,5 +1,9 @@
 {
   "version": "1.0.2",
+  "launcher": {
+    "version": "1.0.1",
+    "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/CalypsoLauncher.exe"
+  },
   "files": [
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
