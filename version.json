@@ -34,23 +34,23 @@
       "path": "./BepInEx/config/BepInEx.cfg"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/core.rar",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/core.rar",
       "path": "./BepInEx/core/core.rar"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/dotnet.rar",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/dotnet.rar",
       "path": "./BepInEx/dotnet/dotnet.rar"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/dotnet1.rar",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/dotnet1.rar",
       "path": "./BepInEx/dotnet/dotnet1.rar"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/interop.rar",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/interop.rar",
       "path": "./BepInEx/interop/interop.rar"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/unity-libs.rar",
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/unity-libs.rar",
       "path": "./BepInEx/unity-libs/unity-libs.rar"
     },
     {
