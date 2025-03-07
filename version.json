@@ -18,6 +18,10 @@
       "path": "./BepInEx/plugins/DiscordRPC.dll"
     },
     {
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx",
+      "path": "./"
+    },
+    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
       "path": "./BepInEx/plugins/Newtonsoft.Json.dll"
     },
