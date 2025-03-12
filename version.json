@@ -11,15 +11,15 @@
   "files": [
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/CALYPSOMOD.dll",
-      "path": "./BepInEx/plugins/CALYPSOMOD.dll"
+      "path": "./RustClient_Data/BepInEx/plugins/CALYPSOMOD.dll"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
-      "path": "./BepInEx/plugins/DiscordRPC.dll"
+      "path": "./RustClient_Data/BepInEx/plugins/DiscordRPC.dll"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
-      "path": "./BepInEx/plugins/Newtonsoft.Json.dll"
+      "path": "./RustClient_Data/BepInEx/plugins/Newtonsoft.Json.dll"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
@@ -31,31 +31,31 @@
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/BepInEx.cfg",
-      "path": "./BepInEx/config/BepInEx.cfg"
+      "path": "./RustClient_Data/BepInEx/config/BepInEx.cfg"
     },
      {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/dotnet.rar",
-      "path": "./BepInEx/dotnet/dotnet.rar"
+      "path": "./RustClient_Data/BepInEx/dotnet/dotnet.rar"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/dotnet1.rar",
-      "path": "./BepInEx/dotnet/dotnet1.rar"
+      "path": "./RustClient_Data/BepInEx/dotnet/dotnet1.rar"
     },
     { 
      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/core.rar",
-     "path": "./BepInEx/core/core.rar"
+     "path": "./RustClient_Data/BepInEx/core/core.rar"
     },
     { 
      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/interop.rar",
-     "path": "./BepInEx/interop/interop.rar"
+     "path": "./RustClient_Data/BepInEx/interop/interop.rar"
     },
     { 
      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/unity-libs.rar",
-     "path": "./BepInEx/unity-libs/unity-libs.rar"
+     "path": "./RustClient_Data/BepInEx/unity-libs/unity-libs.rar"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/config/config.ini",
-      "path": "./BepInEx/config/config.ini"
+      "path": "./RustClient_Data/BepInEx/config/config.ini"
     }
   ]
 }
