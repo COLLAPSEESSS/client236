@@ -17,6 +17,10 @@
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/DiscordRPC.dll",
       "path": "./RustClient_Data/BepInEx/plugins/DiscordRPC.dll"
     },
+        {
+      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/websocket-sharp.dll",
+      "path": "./RustClient_Data/BepInEx/plugins/websocket-sharp.dll"
+    },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
       "path": "./RustClient_Data/BepInEx/plugins/Newtonsoft.Json.dll"
