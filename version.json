@@ -22,8 +22,8 @@
       "path": "./RustClient_Data/BepInEx/plugins/System.Drawing.Common.dll"
     },
     {
-      "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/plugins/Newtonsoft.Json.dll",
-      "path": "./RustClient_Data/BepInEx/plugins/Newtonsoft.Json.dll"
+      "url": "https://codeberg.org/COLLAPSEESSS/236/raw/branch/main/clr.rar",
+      "path": "./Bundles/shared/clr.rar"
     },
     {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/doorstop_config.ini",
