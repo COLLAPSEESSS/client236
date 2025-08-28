@@ -42,10 +42,6 @@
       "path": "./RustClient_Data/BepInEx/dotnet/dotnet.rar"
     },
     {
-      "url": "https://codeberg.org/COLLAPSEESSS/236/raw/branch/main/clr.rar",
-      "path": "./Bundles/shared/clr.rar"
-    },
-    {
       "url": "https://github.com/COLLAPSEESSS/client236/raw/refs/heads/main/BepInEx/dotnet1.rar",
       "path": "./RustClient_Data/BepInEx/dotnet/dotnet1.rar"
     },
